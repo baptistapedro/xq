@@ -1,0 +1,5 @@
+project: xq
+target: xq
+cmds:
+  - cmd: /xq @@
+    env: {}
